@@ -38,7 +38,7 @@ header {
 
 .part2 {
     flex: 1;
-    background: url(./p1.jpg);
+    background: url(../img/p1.jpg);
     background-size: cover;
     background-position: center;
 }
